@@ -7,6 +7,18 @@
 		{
 			"Name": "Paper2D",
 			"Enabled": true
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleARKit",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
