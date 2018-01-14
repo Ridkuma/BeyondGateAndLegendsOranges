@@ -1,0 +1,1 @@
+BGLO.exe -windowed -vsync
